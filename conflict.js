@@ -1,0 +1,1 @@
+const conflict2 = 'conflict2'
